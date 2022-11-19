@@ -1,0 +1,12 @@
+body{
+    background-color: mediumblue;
+}
+.one{
+    background-image: url(image/images.jfif);
+    color: white;
+    height: 500px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 5px solid;
+}
