@@ -6,12 +6,12 @@
 }
 .one{
     background-image: url(image/img1.jfif);
-    background-size: 250px;
+    background-size: cover;
     background-repeat: no-repeat;
     display: inline-block; 
     height: 300px;
     width: 250px;
-    background-size: 200px 150px;
+    background-size: 250px 150px;
     background-color: white;
     position: relative;
     top: 50px;
@@ -20,12 +20,12 @@
 }
 .two{
     background-image: url(image/img2.jfif);
-    background-size: cover;
+    /* background-size: cover; */
     background-repeat: no-repeat;
     display: inline-block; 
     height: 300px;
     width: 250px;
-    background-size: 200px 150px;
+    background-size: 250px 150px;
     background-color: white;
     position: relative;
     top: 50px;
@@ -39,7 +39,7 @@
     display: inline-block; 
     height: 300px;
     width: 250px;
-    background-size: 200px 150px;
+    background-size: 250px 150px;
     background-color: white;
     position: relative;
     top: 50px;
